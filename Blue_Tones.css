@@ -1,0 +1,55 @@
+body{
+text-align:center;
+color:red;
+background-color:indigo;
+}
+#a1{
+background:linear-gradient(to right,Aqua,Cyan,LightCyan,PaleTurquoise,Aquamarine,
+Turquoise,MediumTurquoise,DarkTurquoise,CadetBlue,SteelBlue,
+LightSteelBlue,PowderBlue,LightBlue,SkyBlue,LightSkyBlue,DeepSkyBlue,
+DodgerBlue,CornflowerBlue,RoyalBlue,Blue,MediumBlue,DarkBlue,Navy,MidnightBlue);
+}
+h1{
+background-color:gold;
+color:blue;
+border-width:7px;
+border-style:groove;
+border-top-color:coral;
+border-bottom-color:yellow;
+border-right-color:chartreuse;
+border-left-color:indigo;
+outline:3px groove darkviolet;
+}
+ul{
+background-color:springgreen;
+border:3px groove yellow;
+}
+hr{
+border:3px groove gold;
+}
+li{
+display:inline;
+padding:30px;
+}
+a{
+color:blue;
+text-decoration:none;
+}
+a:hover{
+color:coral;
+text-decoration:underline;
+}
+h3{
+color:blueviolet;
+background-color:aquamarine;
+border:3px groove lightyellow;
+text-align:center;
+}
+p{
+background-color:beige;
+border:3px groove gold;
+}
+marquee{
+background-color:blue;
+border:3px groove lavender
+}
